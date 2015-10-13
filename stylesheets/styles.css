@@ -46,8 +46,6 @@ a small {
   display:block;
 }
 
-a
-
 .wrapper {
   width:860px;
   margin:0 auto;
@@ -234,7 +232,7 @@ footer {
     padding:0;
   }
 
-  header ul, header p.view, a.imglink{
+  header ul, header p.view, header a.imglink {
     position:static;
   }
 
