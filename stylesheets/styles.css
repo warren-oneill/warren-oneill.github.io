@@ -53,6 +53,10 @@ a
   margin:0 auto;
 }
 
+a.imglink:hover img{
+    opacity:0.4;
+}
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -230,7 +234,7 @@ footer {
     padding:0;
   }
 
-  header ul, header p.view {
+  header ul, header p.view, a.imglink{
     position:static;
   }
 
@@ -255,7 +259,4 @@ footer {
     font-size:12pt;
     color:#444;
   }
-}
-a.imglink:hover img{
-    opacity:0.4;
 }
