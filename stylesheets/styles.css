@@ -255,8 +255,7 @@ footer {
     font-size:12pt;
     color:#444;
   }
-
-imglink:hover
-{
+}
+a.imglink:hover img{
     opacity:0.4;
-}}
+}
